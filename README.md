@@ -7,11 +7,6 @@ Python To-Do Tracker
 - - - - - - - - - - - - - - - - - - - - - - - - -
 Create a public google sheets (or other .csv) document with the following schema:
 
-Collumns: (A)To-Dos  (B)Date Assigned  (C)Date Complete  (D)Priority
-Data:        To-do         3.1.22            3.5.22            0
-Data:       To-do 2        3.5.22            3.5.22            1
-etc ...
-
 | To-Dos | Date Assigned | Date Complete | Priority |
 | --- | --- | --- | --- |
 | To-do | 3.1.22 | 3.5.22 | 0 |
