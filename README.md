@@ -15,5 +15,5 @@ Create a google sheets (or other .csv) document with the following schema:
 - Priority can be in the range of (-1 through 3) -1 being lowest priority, 3 is top priority
 - Download your To-Dos as .csv (only downloading selected collumns and rows)
 - And name the document 'ToDos.csv' and place in the same folder
-- Run the script to analyze To-Do productivity and sort for the next To-Dos'
+- Run the script to analyze To-Do productivity and sort for the next To-Dos
 - See the example .csv file (ToDos.csv) attached in this repository
