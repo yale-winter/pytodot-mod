@@ -19,8 +19,10 @@ Data:       To-do 2        3.5.22            3.5.22            1
 etc ...
 
 Priority can be in the range of (-1 through 3) -1 being lowest priority, 3 is top priority
-Download your To-Dos as .csv and name the document 'ToDos.csv' and place in the same folder
+Download your To-Dos as .csv (only downloading selected collumns and rows)
+And name the document 'ToDos.csv' and place in the same folder
 Run the script to analyze To-Do productivity and sort for the next To-Dos'
+See the example .csv file (ToDos.csv) attached in this repository
 """
 
 import pandas as pd
@@ -32,7 +34,7 @@ def to_do(x, df):
     '''
     Print the to-do description from row id
     '''
-    print('\nTop to-do:')
+    print('\nTop To-Do:')
     print('>>>',df.iloc[x][0])
 
 def find_recent_progress(df, prog):  
@@ -87,7 +89,7 @@ def import_to_dos(file_name):
     for i in range(len(ldf)):
         ldf[i][1] = pd.to_datetime(df.iloc[i][1])
         ldf[i][2] = pd.to_datetime(df.iloc[i][2])
-    df = pd.DataFrame(ldf, columns=['To-Dos', 'Date Assigned', 'Date Complete', 'Priority', ''])
+    df = pd.DataFrame(ldf, columns=['To-Dos', 'Date Assigned', 'Date Complete', 'Priority'])
     return df
 
 '''
