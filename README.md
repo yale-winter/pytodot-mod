@@ -1,7 +1,7 @@
 # PyToDoT
 Python To-Do Tracker
 
-![PyToDoT](https://user-images.githubusercontent.com/5803874/175763269-6dd00539-cbfb-4be7-96c2-cf4ac509a28b.jpg)
+![PyToDoT](https://user-images.githubusercontent.com/5803874/175763591-e8261c2d-d28c-4527-a3d6-aa3672ad4171.jpg)
 - - - - - - - - - - - - - - - - - - - - - - - - -
 **PyToDoT: Python To-Do Tracker**
 - - - - - - - - - - - - - - - - - - - - - - - - -
