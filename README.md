@@ -5,7 +5,7 @@ Python To-Do Tracker
 - - - - - - - - - - - - - - - - - - - - - - - - -
 **PyToDoT: Python To-Do Tracker**
 - - - - - - - - - - - - - - - - - - - - - - - - -
-Create a public google sheets (or other .csv) document with the following schema:
+Create a google sheets (or other .csv) document with the following schema:
 
 | To-Dos | Date Assigned | Date Complete | Priority |
 | --- | --- | --- | --- |
