@@ -1,5 +1,6 @@
 # PyToDoT
 Python To-Do Tracker
+
 ![PyToDoT](https://user-images.githubusercontent.com/5803874/175763269-6dd00539-cbfb-4be7-96c2-cf4ac509a28b.jpg)
 - - - - - - - - - - - - - - - - - - - - - - - - -
 **PyToDoT: Python To-Do Tracker**
@@ -11,9 +12,10 @@ Data:        To-do         3.1.22            3.5.22            0
 Data:       To-do 2        3.5.22            3.5.22            1
 etc ...
 
-To-Dos | Date Assigned | Date Complete | Priority
-To-do | 3.1.22 | 3.5.22 | 0
-To-do 2 | 3.5.22 | 3.5.22 | 1
+| To-Dos | Date Assigned | Date Complete | Priority |
+| --- | --- | --- | --- |
+| To-do | 3.1.22 | 3.5.22 | 0 |
+| To-do 2 | 3.5.22 | 3.5.22 | 1 |
 
 
 Priority can be in the range of (-1 through 3) -1 being lowest priority, 3 is top priority
