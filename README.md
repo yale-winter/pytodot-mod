@@ -1,4 +1,3 @@
-![PyToDoT](https://user-images.githubusercontent.com/5803874/175763591-e8261c2d-d28c-4527-a3d6-aa3672ad4171.jpg)
 - - - - - - - - - - - - - - - - - - - - - - - - -
 **PyToDoT: Python To-Do Tracker**
 - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -20,3 +19,5 @@ And name the document 'ToDos.csv' and place in the same folder<br/><br/>
 - See the example .csv file (ToDos.csv) attached in this repository
 - To-Do Priority must be greater than 0 to show up when finding next To-Dos
 - Run command "to_do(1, df)" in the console to see the full text Description of To-Do ID: 1
+
+![PyToDoT](https://user-images.githubusercontent.com/5803874/175763591-e8261c2d-d28c-4527-a3d6-aa3672ad4171.jpg)
