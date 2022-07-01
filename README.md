@@ -13,7 +13,7 @@ Create a google sheet online or use with .csv offline with the following schema:
 | To-do 2 | 3.5.22 | 3.5.22 | 1 |
 
 
-**To load your live google sheet online:**<br/>
+**To load your live google sheet online (set so anyone with the link can view):**<br/>
 Change import_online to True, and replace ___online_url___ with that part of your url<br/><br/>
 **To load your offline .csv:**<br/>
 Download your To-Dos as .csv (only downloading selected collumns and rows)<br/>
