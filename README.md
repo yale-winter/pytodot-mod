@@ -1,3 +1,6 @@
+This is now outdated and replaced by
+[pytodo - package link here](https://github.com/yale-winter/pytodot)
+
 - - - - - - - - - - - - - - - - - - - - - - - - -
 **PyToDoT: Python To-Do Tracker**
 - - - - - - - - - - - - - - - - - - - - - - - - -
